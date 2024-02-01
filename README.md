@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Patacon web page](github.com/mateoOA/patacon)
 
-- 🌱 I’m currently learning **Typescript**
-
 - 💬 Ask me about **Why do I think I am the best candidate**
 
 - 📫 How to reach me **matossoara@gmail.com**
